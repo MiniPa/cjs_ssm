@@ -1,4 +1,4 @@
-package com.chengjs.enums;
+package com.chengjs.cjsssmweb.enums;
 
 import java.util.ArrayList;
 import java.util.List;

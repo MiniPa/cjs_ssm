@@ -1,4 +1,4 @@
-package com.chengjs.util;
+package com.chengjs.cjsssmweb.util;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

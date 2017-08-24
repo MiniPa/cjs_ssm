@@ -1,4 +1,4 @@
-package com.chengjs.util;
+package com.chengjs.cjsssmweb.util;
 
 /**
  * 字符串工具类
